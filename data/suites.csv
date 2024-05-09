@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 09 11:48:18 BST 2024","Thu May 09 11:48:18 BST 2024","25","","Login Page Test","","","","""before each"" hook for Login Page Test",""
+"passed","Thu May 09 11:48:36 BST 2024","Thu May 09 11:48:50 BST 2024","13521","","Product Page Test","","","","tests ProductPageTest2",""
+"passed","Thu May 09 11:48:18 BST 2024","Thu May 09 11:48:22 BST 2024","4247","","Login Page Test","","","","tests LoginPage",""
+"passed","Thu May 09 11:48:26 BST 2024","Thu May 09 11:48:32 BST 2024","6069","","Home Page Test","","","","tests HomePageTest",""
+"passed","Thu May 09 11:48:54 BST 2024","Thu May 09 11:48:54 BST 2024","25","","contact Page Test","","","","""before each"" hook for contact Page Test",""
+"passed","Thu May 09 11:48:54 BST 2024","Thu May 09 11:48:57 BST 2024","2627","","contact Page Test","","","","tests contactUsTest",""

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@id=\"header\"]/div/div/div/div[1]/div/a/img"
+}
